@@ -1,0 +1,1 @@
+SELECT *FROM email_backers_remaining_goal_amount;
